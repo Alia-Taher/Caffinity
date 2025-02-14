@@ -1,4 +1,3 @@
-`TODO: Add a nice screenshot of the app!`
 
 # Cohort 49 final project
 
