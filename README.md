@@ -5,7 +5,7 @@ This is the final project for the HackYourFuture curriculum we did as a cohort u
 
 > Caffinity serves as an online platform dedicated to helping users find and evaluate cafes across the Netherlands, making cafe exploration easy and enjoyable.
 
-`[Click here for the Demo version](https://c49-group-c.hackyourfuture.tech/)`
+[Click here for the Demo version](https://c49-group-c.hackyourfuture.tech/)
 
 ## 1. Setup
 
